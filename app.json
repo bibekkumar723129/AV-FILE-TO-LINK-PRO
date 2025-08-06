@@ -13,7 +13,7 @@
     "media",
     "bot"
   ],
-  "repository": "https://github.com/Botsthe/AV-FILE-TO-LINK-PRO.git",
+  "repository": "@darkworld008",
   "success_url": "/",
   "logo": "https://i.ibb.co/v1YTMm3/icon.png",
   "env": {
@@ -63,11 +63,11 @@
     },
     "CHANNEL": {
       "description": "Public updates channel URL",
-      "value": "https://t.me/AV_BOTz_UPDATE"
+      "value": "https://t.me/UniformMovies"
     },
     "SUPPORT": {
       "description": "Support group URL",
-      "value": "https://t.me/AV_SUPPORT_GROUP"
+      "value": "https://t.me/UniformHelp"
     },
     "HOW_TO_VERIFY": {
       "description": "Link to verification guide"
